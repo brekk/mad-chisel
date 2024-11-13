@@ -1,4 +1,7 @@
 {
   "name": "remark-obsidian-pickaxe",
-  "packageManager": "yarn@4.0.1"
+  "packageManager": "yarn@4.0.1",
+  "dependencies": {
+    "remark-frontmatter": "^5.0.0"
+  }
 }
